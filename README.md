@@ -1,4 +1,4 @@
-# Majority_Bins
+# London Rental House Prediction
 
 Supervised learning of 1-bedroom/studio rents from London location
 
