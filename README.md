@@ -13,5 +13,3 @@ You have been provided with a dataset that contains thousands of rental prices (
 
 Thus, for an arbitrary location in Greater London we want to know the predicted rental price from your machine learning system. Following approach is without using specialist toolboxes or external code.
 
-
-## Files
